@@ -25,7 +25,7 @@ Run the following command to perform dataset condensation.
 python distill.py --dataset $dataset --beta $beta --cond_gap $cond_gap --condensing_ratio $ratio --Iteration $iter --framework $backbone
 # $beta is the additive ratio used in CondTSF, which has a range of (0, 1)
 # $cond_gap is the gap of iterations using CondTSF, if $cond_gap > $iter, then CondTSF is not used
-# $ratio is the condensing raito, which can be chosen from [oneshot, standard, 3-standard], the explanation is in the paper
+# $ratio is the condensing ratio, which can be chosen from [oneshot, standard, 3-standard], the explanation is in the paper
 # $backbone is the backbone of CondTSF, it can be chosen from [DC, MTT, PP, TESLA, FTD, DATM, DM, IDM, KIP, FRePo]
 ```
 The results are stored in ```./logged_files/$backbone``` if CondTSF is used, otherwise in ```./logged_files_baseline/$backbone```.
