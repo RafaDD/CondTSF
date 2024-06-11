@@ -1,8 +1,12 @@
+## CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting
+
+![method](./fig/method.png)
+
 ### Data
 
 We upload the dataset to DropBox, use this [link](https://www.dropbox.com/scl/fo/i9ppyeruylg71hxjldamq/AAPfNEoNkqE6W6wQErx9hRI?rlkey=f3y6yezcvs6yst4tqag3yyjir&st=wlwwaubb&dl=0) to download the data.
 
-After you download the dataset, put ```data``` folder under this directory, i.e. ```./CondTSF```.
+After you download the dataset, put ```./data``` folder under this directory.
 
 ### Parameter Buffer
 
