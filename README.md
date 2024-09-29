@@ -2,6 +2,8 @@
 
 ![method](./fig/method.png)
 
+This is the code for NeurIPS 2024 "CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting".
+
 ### Data
 
 We upload the dataset to DropBox, use this [link](https://www.dropbox.com/scl/fo/i9ppyeruylg71hxjldamq/AAPfNEoNkqE6W6wQErx9hRI?rlkey=f3y6yezcvs6yst4tqag3yyjir&st=wlwwaubb&dl=0) to download the data.
