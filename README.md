@@ -6,7 +6,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2406.02131-b31b1b.svg)](https://arxiv.org/abs/2406.02131) ![](https://img.shields.io/github/stars/RafaDD/CondTSF?style=social) 
 
 </div>
-
+<br>
 
 ![method](./fig/method.png)
 
