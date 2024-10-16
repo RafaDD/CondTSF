@@ -1,8 +1,14 @@
-## CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting
+<div align="center">
+  <img src="fig/logo.png" height=90>
+  <h2><b>CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting</b></h2>
+  <h4><b>Jianrong Ding*, Zhanyu Liu*, Guanjie Zheng†, Haiming Jin, Linghe Kong</b></h4>
+
+[![arXiv](https://img.shields.io/badge/arXiv-2406.02131-b31b1b.svg)](https://arxiv.org/abs/2406.02131) ![](https://img.shields.io/github/stars/RafaDD/CondTSF?style=social) 
+
+</div>
+
 
 ![method](./fig/method.png)
-
-This is the code for NeurIPS 2024 "CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting".
 
 ### Data
 
@@ -45,3 +51,16 @@ python cross_test.py --dataset $dataset --model $model --framework $backbone
 # if CondTSF is applied, then it will evaluate MTT+CondTSF.
 ```
 The results are stored in ```./log_cross_test/$backbone/$dataset/$model```.
+
+### Citation
+
+If you find our work helpful, please cite our paper.
+
+```
+@inproceedings{ding2024time,
+  title={CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting},
+  author={Ding, Jianrong and Liu, Zhanyu and Zheng, Guanjie and Jin, Haiming and Kong, Linghe},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2024}
+}
+```
