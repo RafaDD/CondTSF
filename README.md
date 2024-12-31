@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="fig/logo.png" height=90>
   <h2><b>CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting</b></h2>
   <h4><b>Jianrong Ding*, Zhanyu Liu*, Guanjie Zheng†, Haiming Jin, Linghe Kong</b></h4>
 
