@@ -2,7 +2,7 @@
   <h2><b>CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting</b></h2>
   <h4><b>Jianrong Ding*, Zhanyu Liu*, Guanjie Zheng†, Haiming Jin, Linghe Kong</b></h4>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2406.02131-b31b1b.svg)](https://arxiv.org/abs/2406.02131) ![](https://img.shields.io/github/stars/RafaDD/CondTSF?style=social) 
+[![arXiv](https://img.shields.io/badge/arXiv-2406.02131-b31b1b.svg)](https://arxiv.org/abs/2406.02131)
 
 </div>
 <br>
